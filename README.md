@@ -5,9 +5,9 @@
 
 <p align="center"> <a href="https://twitter.com/cyberaybie" target="_blank"><img src="https://img.shields.io/twitter/follow/cyberaybie?logo=twitter&style=for-the-badge" alt="cyberaybie" /></a> </p>
 
-- 📝 I regularly write articles on [https://cyberspacejet.com/](https://cyberspacejet.com/)
+- 📝 I regularly write articles on [https://contra.com/abrarkhan_1998_sef81o6s](https://cyberspacejet.com/)
 
-- 📫 How to reach me **cyberspacejet@gmail.com**
+- 📫 How to reach me **abrarkhan_1998@hotmail.com**
 
 - 📄 See my Website [https://cyberaybie.github.io/](https://abrarfastian.github.io/)
 
